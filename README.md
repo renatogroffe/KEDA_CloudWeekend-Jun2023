@@ -14,6 +14,8 @@ Local: **Senac Piracicaba - Rua Santa Cruz, 1148 Alto - Piracicaba - SP**
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/devpira-cloud-wknd/2027362)
 
+Redes sociais: [**LinkedIn**](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7077074008021639168/) | [**Instagram**](https://www.instagram.com/p/Ctu31jyOa0t/)
+
 Deixo aqui meus agradecimentos ao **Murilo Beltrame**, ao **Alexandre Ballestero**, ao **Fábio Baldin** e ao **Gabriel Mello** por todo o apoio para que eu partipasse como palestrante do **Cloud Wknd (Meetup)**.
 
 Minha participação no evento foi remota, já que estava em São Paulo-SP no momento em que realizei a palestra.
