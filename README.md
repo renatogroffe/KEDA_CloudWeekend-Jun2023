@@ -16,6 +16,8 @@ Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/
 
 Deixo aqui meus agradecimentos ao **Murilo Beltrame**, ao **Alexandre Ballestero**, ao **Fábio Baldin** e ao **Gabriel Mello** por todo o apoio para que eu partipasse como palestrante do **Cloud Wknd (Meetup)**.
 
+Minha participação no evento foi remota, já que estava em São Paulo-SP no momento em que realizei a palestra.
+
 ---
 
 ![Palestrando](img/c-01.jpg)
